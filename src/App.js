@@ -11,7 +11,7 @@ import useScript from './hooks/useScript';
 
 const HEADER_TITLE = 'Vilas Text to Speech';
 const HEADER_DESCRIPTION =
-  'The Watson Text to Speech service understands text and natural language to generate synthesized audio output complete with appropriate cadence and intonation.';
+  'The Vilas Text to Speech service understands text and natural language to generate synthesized audio output complete with appropriate cadence and intonation.';
 const HEADER_LINKS = [
   <Link
     className="link"
