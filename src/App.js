@@ -18,7 +18,7 @@ const HEADER_LINKS = [
     key="api-link"
     target="_blank"
     rel="noopener noreferrer"
-    href="https://cloud.ibm.com/apidocs/text-to-speech/text-to-speech"
+    href="https://vilasvietnam.com"
   >
     <p className="link-text">VILASIT</p>
     <Api124 className="link-icon" />
@@ -43,18 +43,7 @@ const HEADER_LINKS = [
     <p className="link-text">GitHub</p>
     <LogoGithub24 className="link-icon" />
   </Link>,
-  <Link
-    className="link getting-started"
-    key="ibm-cloud-link"
-    target="_blank"
-    rel="noopener noreferrer"
-    href="https://cloud.ibm.com/registration?target=%2Fdeveloper%2Fwatson%2Flaunch-service%2Ftext-to-speech%3FhideTours%3Dtrue"
-  >
-    <Button className="link-button" kind="tertiary" renderIcon={Launch16}>
-      Start for free on IBM Cloud
-    </Button>
-    <IbmCloud24 className="link-icon" />
-  </Link>,
+  
 ];
 
 export const App = () => {
