@@ -9,7 +9,7 @@ import Header from './components/Header';
 import ServiceContainer from './components/ServiceContainer';
 import useScript from './hooks/useScript';
 
-const HEADER_TITLE = 'Watson Text to Speech';
+const HEADER_TITLE = 'Vilas Text to Speech';
 const HEADER_DESCRIPTION =
   'The Watson Text to Speech service understands text and natural language to generate synthesized audio output complete with appropriate cadence and intonation.';
 const HEADER_LINKS = [
@@ -20,7 +20,7 @@ const HEADER_LINKS = [
     rel="noopener noreferrer"
     href="https://cloud.ibm.com/apidocs/text-to-speech/text-to-speech"
   >
-    <p className="link-text">API reference</p>
+    <p className="link-text">VILASIT</p>
     <Api124 className="link-icon" />
   </Link>,
   <Link
